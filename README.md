@@ -17,7 +17,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via ChatGPT
 - Audio gerado via ElevenLabs
 - Imagens geradas via Leonardo AI
-- Capcut para tratar aúdio, alternar vozes e adicionar efeitos.
+- Capcut para tratar aúdio, alternar vozes, adicionar efeitos, mesclar áudios e vídeos.
 
 ## 📚 Materiais
 
