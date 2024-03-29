@@ -21,7 +21,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Prompts](assets/inputs/Prompts.docx)
+- [Prompts](assets/inputs/Prompts.pdf)
 
 ## 🛠️ Instruções de execução
 
