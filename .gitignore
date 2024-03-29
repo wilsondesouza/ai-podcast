@@ -1,0 +1,6 @@
+assets/inputs/images
+assets/inputs/videos
+assets/inputs/voice
+assets/outputs/videos
+assets/outputs/voice
+assets/outputs/podcast/*.mp4
