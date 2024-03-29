@@ -2,7 +2,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -17,7 +17,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via ChatGPT
 - Audio gerado via ElevenLabs
 - Imagens geradas via Leonardo AI
-- Capcut para tratar aúdio, alternar vozes, adicionar efeitos, mesclar áudios e vídeos.
+- A.I Avatar gerado via Neiro AI
+- Vídeo complementar gerado via inVideo
+- Uso extensivo do Capcut para tratar aúdio, alternar vozes, adicionar efeitos, mesclar áudios e vídeos.
 
 ## 📚 Materiais
 
@@ -31,3 +33,4 @@ Utilize os prompts dentro do documento dos `Prompts` fornecido na parte de `Mate
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs` para gerar o áudio principal
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `Neiro AI` para gerar o avatar animado
 - 🤖 3. Use os prompts de artes no `Leonardo AI` para gerar as imagens
+
